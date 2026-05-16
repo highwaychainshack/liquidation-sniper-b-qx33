@@ -1,4 +1,4 @@
-# 
+# high-frequency liquidation sniper bot Plugin | backtesting + take-profit offers the most advanced liquidation sniper bot, with backtesting and take-profit. Ideal for professional
 
 
 
